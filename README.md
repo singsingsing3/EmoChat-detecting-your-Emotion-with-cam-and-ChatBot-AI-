@@ -92,19 +92,22 @@ aug = ImageDataGenerator(
 - 모델 학습은 구글 Colab을 통하여 학습했습니다.
 - 프로그램 실행은 VSCODE를 이용했습니다.
 - 환경과 버전은 아래와 같습니다.
+```
 <코랩 환경>
 Python: 3.10.12 
 CV: 4.8.0
 Numpy: 1.25.2
 Tensorflow: 2.15.0
 Keras: 2.15.0
-
+```
+```
 <프로그램 실행환경>
 Python: 3.10.14
 CV: 4.8.0
 Numpy: 1.25.2
 Tensorflow: 2.15.0
 Keras: 2.15.0
+```
 
 ### 💬 ChatGPT API 설명
 
