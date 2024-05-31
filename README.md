@@ -122,6 +122,6 @@ Keras: 2.15.0
   
 -GPT API 사용은 OPEN AI에서 제공하는 공식 문서를 참고하였습니다.[OPEN AI API 문서](https://platform.openai.com/docs/api-reference/introduction)
 
--이미지 학습 데이터는 AI HUB에서 제공하는 사진으로 학습했습니다.[AI HUB 표정학습 이미지 데이](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=82)
+-이미지 학습 데이터는 AI HUB에서 제공하는 사진으로 학습했습니다.[AI HUB 표정학습 이미지 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=82)
 
 -추가적으로 GPT 3.5의 도움을 받았습니다.
