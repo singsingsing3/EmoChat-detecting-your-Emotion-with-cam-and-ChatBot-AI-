@@ -121,8 +121,8 @@ Keras: 2.15.0
 - 초기 모델학습 스켈레톤 코드는 [참고한 모델학습 코드](https://velog.io/@robert-lee/Tensorflow-Keras-Multi-Class-Classification-%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90) 여기서 참고했습니다.
   => 이후 새로운 학습 데이터와 새로운 모델에 맞게 수정하여 사용했습니다.
   
--GPT API 사용은 OPEN AI에서 제공하는 공식 문서를 참고하였습니다.[OPEN AI API 문서](https://platform.openai.com/docs/api-reference/introduction)
+- GPT API 사용은 OPEN AI에서 제공하는 공식 문서를 참고하였습니다.[OPEN AI API 문서](https://platform.openai.com/docs/api-reference/introduction)
 
--이미지 학습 데이터는 AI HUB에서 제공하는 사진으로 학습했습니다.[AI HUB 표정학습 이미지 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=82)
+- 이미지 학습 데이터는 AI HUB에서 제공하는 사진으로 학습했습니다.[AI HUB 표정학습 이미지 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=82)
 
--추가적으로 GPT 3.5의 도움을 받았습니다.
+- 추가적으로 GPT 3.5의 도움을 받았습니다.
