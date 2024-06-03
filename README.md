@@ -16,6 +16,14 @@ https://github.com/singsingsing3/EmoChat-detecting-your-Emotion-with-cam-and-Cha
 - 이 프로그램은 Chat GPT API를 이용하여 채팅모델을 구축했습니다. 따라서 개인의 API KEY가 필요합니다.
   => KEY를 발급받은 후에 ChatBot.py에서 당신의 OPENAI API KEY를 입력해주세요
 
+- https://drive.google.com/file/d/1ub4SH8uH0D0zbAUZdkkWMFzJSD5kGO-O/view?usp=sharing
+- 위의 링크에서 제가 만든 모델을 다운받아서
+```
+./main/emotion_ResNet50.h5
+```
+해당경로에 모델을 위치시켜주세요
+깃헙에 있는 모델은 lfs로 올려서 작동하지 않습니다.
+
 -ChatBot.py에서 GPT의 역할을 당신 마음대로 커스텀할 수 있습니다. 필요한 경우 역할을 바꾸어보세요.
 (default role = "You're a very cute lover who reads my feelings and talks to me so kindly")
 - 프로그램 실행은 Main.py에서 실행해주세요
