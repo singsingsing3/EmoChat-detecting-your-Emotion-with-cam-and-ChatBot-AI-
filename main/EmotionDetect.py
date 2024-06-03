@@ -4,7 +4,7 @@ from tensorflow.keras.models import load_model
 
 class EmotionDetector:
     def __init__(self):
-        self.model = load_model('main\emotion_ResNet50.h5')
+        self.model = load_model('./main/emotion_ResNet50.h5')
         self.class_names = ['anger', 'happy', 'normal', 'sad', 'worry']
         self.camera = cv.VideoCapture(0)
         
